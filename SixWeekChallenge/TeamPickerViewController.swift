@@ -10,6 +10,10 @@ import UIKit
 
 class TeamPickerViewController: UIViewController {
 
+    @IBOutlet weak var awayTeamLabel: UILabel!
+    
+    @IBOutlet weak var homeTeamLabel: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 

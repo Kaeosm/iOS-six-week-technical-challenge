@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		243F022C1C93551C00E83A31 /* TeamPickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 243F022B1C93551C00E83A31 /* TeamPickerViewController.swift */; };
 		2467FB461C9326DF002A2320 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2467FB451C9326DF002A2320 /* AppDelegate.swift */; };
 		2467FB4B1C9326DF002A2320 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2467FB491C9326DF002A2320 /* Main.storyboard */; };
 		2467FB4D1C9326DF002A2320 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2467FB4C1C9326DF002A2320 /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		243F022B1C93551C00E83A31 /* TeamPickerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TeamPickerViewController.swift; path = ../TeamPickerViewController.swift; sourceTree = "<group>"; };
 		2467FB421C9326DF002A2320 /* SixWeekChallenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SixWeekChallenge.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2467FB451C9326DF002A2320 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2467FB4A1C9326DF002A2320 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				2467FB451C9326DF002A2320 /* AppDelegate.swift */,
 				2467FB671C934A36002A2320 /* TeamTableViewCell.swift */,
 				2467FB491C9326DF002A2320 /* Main.storyboard */,
+				243F022B1C93551C00E83A31 /* TeamPickerViewController.swift */,
 				2467FB631C934298002A2320 /* AddTeamTableViewController.swift */,
 				2467FB571C932961002A2320 /* Team.swift */,
 				2467FB611C933E24002A2320 /* TeamListTableTableViewController.swift */,
@@ -158,6 +161,7 @@
 				2467FB461C9326DF002A2320 /* AppDelegate.swift in Sources */,
 				2467FB641C934298002A2320 /* AddTeamTableViewController.swift in Sources */,
 				2467FB681C934A36002A2320 /* TeamTableViewCell.swift in Sources */,
+				243F022C1C93551C00E83A31 /* TeamPickerViewController.swift in Sources */,
 				2467FB621C933E24002A2320 /* TeamListTableTableViewController.swift in Sources */,
 				2467FB5E1C933403002A2320 /* TeamController.swift in Sources */,
 				2467FB601C933BF8002A2320 /* TeamCoreData.swift in Sources */,
@@ -308,6 +312,7 @@
 				2467FB561C9326DF002A2320 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
